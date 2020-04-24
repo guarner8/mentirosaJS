@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mentirosaJS/static/css/main.82c14383.chunk.css",
-    "main.js": "/mentirosaJS/static/js/main.bd6c594a.chunk.js",
-    "main.js.map": "/mentirosaJS/static/js/main.bd6c594a.chunk.js.map",
+    "main.js": "/mentirosaJS/static/js/main.6d39f76a.chunk.js",
+    "main.js.map": "/mentirosaJS/static/js/main.6d39f76a.chunk.js.map",
     "runtime-main.js": "/mentirosaJS/static/js/runtime-main.adc2b628.js",
     "runtime-main.js.map": "/mentirosaJS/static/js/runtime-main.adc2b628.js.map",
     "static/css/2.89f067aa.chunk.css": "/mentirosaJS/static/css/2.89f067aa.chunk.css",
     "static/js/2.8a0d9d04.chunk.js": "/mentirosaJS/static/js/2.8a0d9d04.chunk.js",
     "static/js/2.8a0d9d04.chunk.js.map": "/mentirosaJS/static/js/2.8a0d9d04.chunk.js.map",
     "index.html": "/mentirosaJS/index.html",
-    "precache-manifest.ca34fe0b5543d515f884b2aa643c6c2d.js": "/mentirosaJS/precache-manifest.ca34fe0b5543d515f884b2aa643c6c2d.js",
+    "precache-manifest.17860f27e8357a17f12f88773dc0f03f.js": "/mentirosaJS/precache-manifest.17860f27e8357a17f12f88773dc0f03f.js",
     "service-worker.js": "/mentirosaJS/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/mentirosaJS/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.82c14383.chunk.css.map": "/mentirosaJS/static/css/main.82c14383.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.8a0d9d04.chunk.js",
     "static/css/main.82c14383.chunk.css",
-    "static/js/main.bd6c594a.chunk.js"
+    "static/js/main.6d39f76a.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce5cc2f3342302f22f011a5647a05c3c",
+    "revision": "25d6905e36913dd115b18f694aa015c8",
     "url": "/mentirosaJS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mentirosaJS/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "cbd1539539d995472041",
+    "revision": "76239563f04b4999c7ea",
     "url": "/mentirosaJS/static/css/main.82c14383.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mentirosaJS/static/js/2.8a0d9d04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbd1539539d995472041",
-    "url": "/mentirosaJS/static/js/main.bd6c594a.chunk.js"
+    "revision": "76239563f04b4999c7ea",
+    "url": "/mentirosaJS/static/js/main.6d39f76a.chunk.js"
   },
   {
     "revision": "736a169a558322df42e8",
